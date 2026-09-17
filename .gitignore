@@ -1,0 +1,5 @@
+# Public profile repository: keep the repository documentation-only.
+*
+!.gitignore
+!README.md
+!LICENSE
